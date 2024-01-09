@@ -7,7 +7,11 @@ Me encanta crear y me siento muy cómoda trabajando en equipo. Quiero formar par
 ¡No tener aún experiencia no significa que no pueda triunfar!
 
 ## CONTACTO 💌 :
-[![Static Badge](https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=blue&labelColor=pink)](mailto:raquel5deabril@gmail.com)
+[![linknowi](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel5deabril/)
+[![gitnowi](https://img.shields.io/badge/Github-black?logo=github&logoColor=white)](https://github.com/Raquel050479)
+[![gmailnowi](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white)](mailto:raquel5deabril@gmail.com)
+
+
 
 
 ## LENGUAJES Y HERRAMIENTAS 👩‍💻 🛠:
