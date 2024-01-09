@@ -1,4 +1,9 @@
 ### Hi there 👋
+## Lenguajes y Herramientas 👨‍💻 🛠:
+[![Static Badge](https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=blue&labelColor=pink)](mailto:raquel5deabril@gmail.com)
+
+
+
 
 <!--
 **Raquel050479/Raquel050479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
