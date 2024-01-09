@@ -1,7 +1,16 @@
 ![header](/raquel.jpg)
 
-### Hi there 👋
-## Lenguajes y Herramientas 👨‍💻 🛠:
+### ¡Bienvenid@ a mi GitHub! 👋
+## Sobre mí...
+Estoy en búsqueda activa de empleo como programadora. Me gustan los retos y por eso me embarqué en esta aventura de crear código.
+Me encanta crear y me siento muy cómoda trabajando en equipo. Quiero formar parte de proyectos motivadores donde pueda seguir creciendo en el sector.
+¡No tener aún experiencia no significa que no pueda triunfar!
+
+## CONTACTO 💌 :
+[![Static Badge](https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=blue&labelColor=pink)](mailto:raquel5deabril@gmail.com)
+
+
+## LENGUAJES Y HERRAMIENTAS 👩‍💻 🛠:
 [![Static Badge](https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=blue&labelColor=pink)](mailto:raquel5deabril@gmail.com)
 
 
